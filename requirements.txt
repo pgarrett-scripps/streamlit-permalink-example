@@ -1,1 +1,2 @@
 streamlit-permalink @ git+https://github.com/pgarrett-scripps/streamlit-permalink
+streamlit==1.45.0
