@@ -1,2 +1,2 @@
-streamlit-permalink @ git+https://github.com/pgarrett-scripps/streamlit-permalink
+streamlit-permalink==1.2.0
 streamlit==1.45.0
