@@ -1,2 +1,2 @@
-streamlit-permalink==1.2.0
+streamlit-permalink-pg==1.3.0
 streamlit==1.45.0
